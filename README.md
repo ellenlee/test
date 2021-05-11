@@ -1,3 +1,9 @@
+以下是 ALPHA Camp 作業回饋機制說明，同學在寫作業前、助教在批改作業前，請務必詳讀這篇文章。
+
+[指定規格與功能](#指定規格與功能)
+設計理念
+
+
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
