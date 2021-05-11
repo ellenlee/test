@@ -1,3 +1,8 @@
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 # A6 餐廳清單擴充 CRUD 功能
 
 > 💡  在寫這份作業之前，請你務必了解 <a href="https://github.com/Carrot7712/ALPHACamp_assignment_rubrics/blob/main/README.md" target="_blank">ALPHA Camp 作業回饋機制</a>，包括助教會如何批改你的作業，以及你該怎麼使用助教回饋來幫助自己進步
